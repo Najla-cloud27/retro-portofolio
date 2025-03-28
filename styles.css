@@ -138,7 +138,7 @@ body::before {
 }
 
 .nav-menu li.active a {
-  background-color: white;
+  background-color: rgb(234, 184, 184);
   border: 2px solid black;
   box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 1);
 }
@@ -281,7 +281,7 @@ body::before {
   border-radius: 8px;
   box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 1);
   overflow: hidden;
-  background-color: white;
+  background-color: rgb(230, 215, 215);
 }
 
 .window-content {
